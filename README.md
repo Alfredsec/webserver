@@ -60,7 +60,6 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 ![image](https://github.com/Alfredsec/webserver/assets/120621608/0ccd9c98-a1a5-413f-9e42-f0c3fd69d2ca)
-![image](https://github.com/Alfredsec/webserver/assets/120621608/1e382a0c-e148-40fa-87be-117dc640028b)
 
 ## RESULT:
 The program is executed succesfully
