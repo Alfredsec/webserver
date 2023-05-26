@@ -59,7 +59,9 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![image](https://github.com/Alfredsec/webserver/assets/120621608/0ccd9c98-a1a5-413f-9e42-f0c3fd69d2ca)
+![web ex01 server output](https://github.com/Alfredsec/webserver/assets/120621608/178b9c7b-f105-4823-9ad6-5dfa07750ca2)
+![web ex01](https://github.com/Alfredsec/webserver/assets/120621608/6092dac2-3a81-41c9-840e-3b12466438f3)
+
 
 ## RESULT:
 The program is executed succesfully
